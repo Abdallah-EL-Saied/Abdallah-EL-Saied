@@ -7,4 +7,4 @@
 - 📫 How to reach me: jeebali216@gmail.com
 - 🌱 Currently working on Front-End Projects
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdalla123&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-EL-Saied&show_icons=true&theme=radical)
