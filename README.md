@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Abdallah-EL-Saied&color=blue)
+
+
 ### 👋 Hello, I'm Abdallah Alsabaa
 
 - 🎓 Studying Computer Science | ITI Program
