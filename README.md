@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 Full-Stack PHP Developer | ITI ITP Student  
 - 💼 I build web applications with a focus on reliable backend services (PHP / MySQL) and polished front-end experiences.  
-- 🧩 Strengths: ambitious, detail-oriented, energetic, motivated, team player and natural leader.  
+- 🧩 Strengths: ambitious, detail-oriented, energetic, motivated, team player, and natural leader.  
 - ⚡ Interests: problem solving, software testing, system design, and performance tuning.
 
 ## 📫 Contact Me / Hire Me
@@ -30,9 +30,9 @@
 [![Edabit](https://img.shields.io/badge/Edabit-AbdallahElsaied-blue?style=flat)](https://edabit.com/user/r3KTh4EsW9vQPFRma)
 
 ## 💖 Support Me / Donations
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=flat)](https://paypal.me/yourusername)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-orange?logo=kofi&logoColor=white&style=flat)](https://ko-fi.com/yourusername)
-[![Patreon](https://img.shields.io/badge/Patreon-Support-red?logo=patreon&logoColor=white&style=flat)](https://patreon.com/yourusername)
+[![PayPal](https://img.shields.io/badge/PayPal-Support-blue?logo=paypal&logoColor=white&style=flat)](https://paypal.me/abdallahalsabaa)
+[![Vodafone Cash](https://img.shields.io/badge/VodafoneCash-01095592881-red?logo=vodafone&logoColor=white&style=flat)](tel:+201095928815)
+[![InstaPay](https://img.shields.io/badge/InstaPay-alex-abdallah-elsaied@instapay-blue?style=flat)](mailto:alex-abdallah-elsaied@instapay)
 
 ---
 
