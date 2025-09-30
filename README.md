@@ -30,13 +30,20 @@
 [![Edabit](https://img.shields.io/badge/Edabit-AbdallahElsaied-blue?style=flat)](https://edabit.com/user/r3KTh4EsW9vQPFRma)
 
 ## 💖 Support Me / Donations
-[![PayPal](https://img.shields.io/badge/PayPal-Support-blue?logo=paypal&logoColor=white&style=flat)](https://paypal.me/abdallahalsabaa)
-[![Vodafone Cash](https://img.shields.io/badge/VodafoneCash-01095592881-red?logo=vodafone&logoColor=white&style=flat)](tel:+201095928815)
-[![InstaPay](https://img.shields.io/badge/InstaPay-alex-abdallah-elsaied@instapay-blue?style=flat)](mailto:alex-abdallah-elsaied@instapay)
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=flat)](https://paypal.me/yourusername)
+[![Vodafone Cash](https://img.shields.io/badge/VodafoneCash-Donate-red?logo=vodafone&logoColor=white&style=flat)](tel:+201095928815)
+[![InstaPay](https://img.shields.io/badge/InstaPay-Donate-blue?logo=instapay&logoColor=white&style=flat)](https://ipn.eg/S/alex-abdallah-elsaied/instapay/5jvex0)
 
 ---
 
-## 🛠️ Skills (complete & updated)
+### 📲 Scan & Pay (InstaPay QR)
+<img src="WhatsApp Image 2025-09-30 at 08.49.48_82b764ac.jpg" alt="InstaPay QR" width="220"/>
+
+
+---
+
+## 🛠️ Skills
 
 **Frontend**
 <p>
