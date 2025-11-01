@@ -1,7 +1,11 @@
-# Hi there 👋, I'm Abdallah EL-Saied
+<h1 align="center">
+  Hi there 👋, I'm Abdallah EL-Saied
+</h1>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Abdallah-EL-Saied&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Abdallah-EL-Saied?style=social)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdallah-EL-Saied&color=blue" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/Abdallah-EL-Saied?style=social" alt="GitHub followers" />
+</p>
 
 ---
 
@@ -34,12 +38,6 @@
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white&style=flat)](https://paypal.me/yourusername)
 [![Vodafone Cash](https://img.shields.io/badge/VodafoneCash-Donate-red?logo=vodafone&logoColor=white&style=flat)](tel:+201095928815)
 [![InstaPay](https://img.shields.io/badge/InstaPay-Donate-blue?logo=instapay&logoColor=white&style=flat)](https://ipn.eg/S/alex-abdallah-elsaied/instapay/5jvex0)
-
----
-
-### 📲 Scan & Pay (InstaPay QR)
-<img src="WhatsApp Image 2025-09-30 at 08.49.48_82b764ac.jpg" alt="InstaPay QR" width="220"/>
-
 
 ---
 
@@ -94,6 +92,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdallah-EL-Saied&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&height=150)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-EL-Saied&layout=compact&theme=radical&hide_border=true&height=150)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-EL-Saied&theme=radical&hide_border=true&height=150)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdallah-EL-Saied&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&height=150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-EL-Saied&layout=compact&theme=radical&hide_border=true&height=150" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-EL-Saied&theme=radical&hide_border=true&height=150" alt="GitHub Streak"/>
+</p>
